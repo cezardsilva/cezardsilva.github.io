@@ -38,4 +38,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 Desenvolvido por [Cezar D Silva](https://github.com/cezardsilva)
->>>>>>> 8aa6cf4 (Adicionado index.html, style.css, script.js e ajustado README.md)
