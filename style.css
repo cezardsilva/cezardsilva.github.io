@@ -32,7 +32,7 @@ nav {
 }
 
 .portfolio span {
-    color: #f9004d;
+    color: #045901;
 }
 
 li {
@@ -46,7 +46,7 @@ li {
 }
 
 li:hover {
-    color: #f9004d;
+    color: #045901;
     transition: 0.5s;
 }
 
@@ -57,7 +57,7 @@ li:hover {
 }
 
 .link-menu:hover {
-    color: #f9004d;
+    color: #045901;
 }
 
 .my-name {
@@ -73,7 +73,7 @@ h1 {
 }
 
 h1 span {
-    color: #f9004d;
+    color: #045901;
 }
 
 .my-name h3 {
@@ -99,7 +99,7 @@ h1 span {
 .about img {
     height: 200px;
     border-radius: 100%;
-    border: 2px solid #f9004d;
+    border: 2px solid #045901;
     margin-right: 30px;
 }
 
@@ -118,7 +118,7 @@ h1 span {
 
 .about button {
     color: #fff;
-    background: #f9004d;
+    background: #045901;
     height: 45px;
     width: 200px;
     font-size: 20px;
@@ -130,7 +130,7 @@ h1 span {
 
 .about button:hover {
     background-color: #000000;
-    border: 3px solid #f9004d;
+    border: 3px solid #045901;
 }
 
 .about button a {
@@ -250,7 +250,7 @@ h1 span {
 }
 
 .card a {
-    background-color: #f9004d;
+    background-color: #045901;
     border-radius: 25px;
     color: #fff;
     padding: 10px 20px;
@@ -263,7 +263,7 @@ h1 span {
     background: none; /* Remove o fundo */
     border: none; /* Remove qualquer borda */
     padding: 0; /* Remove o espaçamento interno */
-    color: #5e44ee; /* Mantém a cor do texto */
+    color: #277dec; /* Mantém a cor do texto */
     text-decoration: underline; /* Adiciona o sublinhado opcional */
     font-size: 16px; /* Define o tamanho da fonte */
     font-weight: bold; /* Destaca o texto */
@@ -278,7 +278,7 @@ h1 span {
 
 .card a:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #045901;
 }
 
 .list-projects {
@@ -325,7 +325,7 @@ footer p {
 }
 
 .social a {
-    background-color: #f9004d;
+    background-color: #045901;
     border-radius: 50%;
     display: flex;
     align-items: center;
