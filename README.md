@@ -31,9 +31,10 @@ O **portfolio** oferece um painel de alguns projetos desenvolvidos por mim..
     🌎 Ajustes de designer
     🌎 Inclusão de mais projetos
 
-📝 Licença
+## Licença
 
-Este projeto está sob a licença MIT. Veja mais detalhes em https://github.com/cezardsilva/portfolio.io?tab=MIT-1-ov-file
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 
 ---
 Desenvolvido por [Cezar D Silva](https://github.com/cezardsilva)
