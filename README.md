@@ -23,7 +23,7 @@ O **portfolio** oferece um painel de alguns projetos desenvolvidos por mim..
    ```sh
    git clone https://github.com/cezardsilva/portfolio.io.git
 
-2. Abra [Portfolio](https://cezardsilva/portfolio.github.io) em um navegador.
+2. Abra [Portfolio](https://cezardsilva.github.io/) em um navegador.
 
 
 📌 Melhorias futuras
